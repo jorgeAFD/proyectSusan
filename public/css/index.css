@@ -1,0 +1,218 @@
+.microfono
+{
+    font-size:x-large;
+    color: white;
+    margin-top: 0px;
+}
+body
+{
+background-color:#382C56 ;
+}
+#label{
+    color: #fff;
+}
+.my-custom-scrollbar {
+    position: relative;
+    height: 520px;
+    overflow: auto;
+}
+.table-wrapper-scroll-y {
+    display: block;
+}
+.formulario1{
+    width: 400px;
+    height: 350px;
+    margin: 0 auto;
+    padding: 0px 20px 60px 20px;
+    margin-top: 35px;
+    font-family: roboto;  
+    text-align: left !important;
+   box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22); 
+}
+
+.formulario1 input[type="text"]{
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #ced4da;
+    margin-bottom: 10px;
+    box-sizing:border-box;
+}
+
+.btnGuardar{
+    width: 100%;
+    padding: 15px;
+    background-color: #1D4ED8;
+    border: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-weight: bold;
+    font-size:medium;
+    color: #ffffff;
+    margin-top: 40px;
+    /* Para dar la apariencia de un boton */
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none; 
+}
+.btnGuardar:hover,.btnGuardar:active{
+    color:#fff;
+    background-color: #1E3A8A;
+    border-color:#1E3A8A;
+  }
+  .btnGuardar:focus{
+    box-shadow:0 0 0 3px #1E3A8A;
+  }
+
+header
+{
+    background:#483B72 ;
+    
+    padding-bottom: 0   px;
+}
+.progress_bar
+{
+    margin-top: 10px;
+}
+.text_presentation
+{
+    width: 100%;
+    border-radius: 15px;
+    background-color: #382C56;
+    border: 0px solid;
+    color: white;
+    margin-bottom: 10px;
+    
+    
+}
+.btn
+{
+    border-radius: 100%;
+    background-color: #382C56;
+    border-color: #382C56;
+}
+.canvas_db
+{
+    background-color: rgb(105, 173, 173);
+    width: 90%;
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pos_logo
+{
+    
+     
+    margin-bottom: 0px;  
+    
+}
+/*boton animado*/
+
+a
+{
+    text-decoration: none;
+    color:#b3b3b3;
+    transition:color .5s;
+    -webkit-transition: color .5s;
+    -moz-transition:color .5s;
+    -o-transition:color .5s;
+    padding-top: 8px;
+    
+    padding-bottom: 8px;
+    
+}
+
+a:hover
+{
+    color:var(--color);
+}
+.btn_body
+{
+    width: 90%;
+    
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    
+    padding-top: 8px;
+    padding-left: 20px;
+    padding-bottom: 8px;
+
+    transition:  background 1.5s,color .5s;
+    -webkit-transition:  background 1.5s,color .5s;
+    -moz-transition: background 1.5s,color .5s;
+    -o-transition: background 1.5s,color .5s;
+    --color:#b3b3b3;
+}
+.btn_body:hover
+{
+    background: rgba(94,194,204,1);
+    background: -moz-linear-gradient(left, rgba(94,194,204,1) 0%, rgba(255,255,255,0) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(94,194,204,1)), color-stop(100%, rgba(255,255,255,0)));
+    background: -webkit-linear-gradient(left, rgba(94,194,204,1) 0%, rgba(255,255,255,0) 100%);
+    background: -o-linear-gradient(left, rgba(94,194,204,1) 0%, rgba(255,255,255,0) 100%);
+    background: -ms-linear-gradient(left, rgba(94,194,204,1) 0%, rgba(255,255,255,0) 100%);
+    background: linear-gradient(to right, rgba(94,194,204,1) 0%, rgba(255,255,255,0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5ec2cc', endColorstr='#ffffff', GradientType=1 );
+    --color:white;
+    color:var(--color);
+    
+}
+.contendor_btns
+{
+    width: 80%;
+    height: 470px;
+    background-color: #483B72;
+    margin-top: 30px;
+    border-radius: 10px;
+    margin-left: auto;
+  margin-right: auto;
+  
+    
+}
+.encavezado_contenedor
+{
+    text-align: center;
+    font-size: 40px;
+    color:white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+h5{
+    text-align: center;
+    color:white;
+    
+}
+.fin_encavezado
+{
+    font-size: 12px;
+    text-align: center;
+    color:#b3b3b3;
+    
+}
+.icon_edit
+{
+    font-size: 20px;
+    color:var(--color);
+    margin: 5px;
+}
+.filtrar
+{
+    
+    background-color: #382C56;
+    color:white;
+    outline: none;
+    border: 0;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    width: 90%;
+}
+.icon_search
+{
+    font-size: 20px;
+    margin-left: 5px;
+    margin-right: 10px;
+    color:#b3b3b3;
+    margin-top: 20px;
+    transition: color 1s;
+}
