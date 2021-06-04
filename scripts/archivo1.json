@@ -1,20 +1,70 @@
 [
     {
-        "entradab": "diego ",
-        "salidab": "Es mi Creador"
+        "entradab": "quien eres",
+        "salidab": "Soy un chatbot y lista para ayudar, Solo dime si necesitas algo"
     },
     {
-        "entradab": "cesar",
-        "salidab": "Es mi creador"
+        "entradab": "que haces",
+        "salidab": "Puedo responder algunas preguntas y ofrecer algunos consejos"
+    },
+    {
+        "entradab": "cual es tu nombre",
+        "salidab": "Mi nombre es Susan, soy un asistente de voz creada mediante JavaScript."
+    },
+    {
+        "entradab": "como estas",
+        "salidab": "¡Estoy bien! Gracias por preguntar, ¿Cómo le puedo ayudar?"
+    },
+    {
+        "entradab": "hola",
+        "salidab": "Hola- mucho gusto- Que tal"
+    },
+    {
+        "entradab": "gracias",
+        "salidab": "Ha sido un placer ayudar"
+    },
+    {
+        "entradab": "adios",
+        "salidab": "Hasta luego"
+    },
+    {
+        "entradab": "hasta luego",
+        "salidab": "Chao"
+    },
+    {
+        "entradab": "dime un consejo",
+        "salidab": "No vivas para complacer a los demás, tu opinión lo único que importa de verdad.- Fíjate en cosas tan sencillas que nunca te pones a pensar en lo afortunado que eres, valora todo aquello que tienes y se agradecido por ello.  Siempre hay algo por lo que tienes que agradecer, encuéntralo, y lo más importante es que, ¡ESTÁS VIVO!- No tiene nada de malo equivocarse, todos lo hacemos. Mejor aprende de esos fracasos y sal adelante aprendiendo de ellos.-Muchas veces creemos que nuestros problemas son más grandes de lo que en verdad son, mira a tu alrededor y date cuenta en verdad cuales son los problemas por los que deberías preocuparte."
     },
     {
         "entradab": "cuentame un chiste",
-        "salidab": "estos son dos fantasmas y se calló el del MEDIUM,¿Cuál es el pez que huele mucho?El Peztoso"
-       
+        "salidab": "Estos son dos fantasmas y se calló el del MEDIUM.-¿Cuál es el pez que huele mucho? El Peztoso"
     },
     {
-
-        "entradab": "jorge",
-        "salidab": "es mi Creador"
+        "entradab": "como te llamas",
+        "salidab": "Mi nombre es Susan, soy un asistente de voz creada mediante JavaScript."
+    },
+    {
+        "entradab": "",
+        "salidab": ""
+    },
+    {
+        "entradab": "",
+        "salidab": ""
+    },
+    {
+        "entradab": "",
+        "salidab": ""
+    },
+    {
+        "entradab": "",
+        "salidab": ""
+    },
+    {
+        "entradab": "",
+        "salidab": ""
+    },
+    {
+        "entradab": "",
+        "salidab": ""
     }
 ]
